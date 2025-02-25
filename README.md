@@ -23,4 +23,4 @@ print(message.decode())
 ```
 
 # UML Diagram
-![image](https://github.com/user-attachments/assets/c2eacb88-6512-40f5-a11c-dab090e23a2d)
+![image](https://github.com/user-attachments/assets/f1c1f623-b1a4-402e-aa32-20a7c622625b)
