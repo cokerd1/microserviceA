@@ -1,4 +1,4 @@
-#HTML Parsing Microservice
+# HTML Parsing Microservice
 
 This Microservice will receive a URL, and then return all the text on the webpage utilizing ZeroMQ, and BeautifulSoup for web parsing.
 
@@ -22,5 +22,5 @@ message = socket.recv()
 print(message.decode())
 ```
 
-#UML Diagram
+# UML Diagram
 ![image](https://github.com/user-attachments/assets/c2eacb88-6512-40f5-a11c-dab090e23a2d)
